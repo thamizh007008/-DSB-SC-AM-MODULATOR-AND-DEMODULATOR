@@ -84,10 +84,11 @@ plot(t,eDSBSC);
 
 # OUTPUT WAVEFORM:
 
-<img width="1552" height="969" alt="DSBSC modulation" src="https://github.com/user-attachments/assets/cb78a1be-9e50-4ac3-8600-e5499862ac9a" />
+<img width="1600" height="832" alt="WhatsApp Image 2026-06-06 at 8 12 52 AM" src="https://github.com/user-attachments/assets/eb8c721e-d131-47e7-a8f4-684e6004fa7a" />
 
 # TABULATION:
-<img width="1600" height="969" alt="DSBSC modulation table" src="https://github.com/user-attachments/assets/60489741-4d32-4fe0-8122-9139d729a381" />
+<img width="721" height="1280" alt="WhatsApp Image 2026-06-06 at 8 08 15 AM" src="https://github.com/user-attachments/assets/cca54fb6-609e-49e7-b0ba-ca5c7feb8da1" />
+
 
 # Result:
   Thus the DSB-SC-AM Modulation and Demodulation is generated.
